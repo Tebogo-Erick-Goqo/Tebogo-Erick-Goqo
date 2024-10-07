@@ -39,7 +39,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/Tebogo-Erick-Goqo/blob/main/javascript.webp" alt="javascript" width="60" height="60" hspace="20"/> </a> 
   </kbd>
   <kbd>
-    <a href="https://learn.microsoft.com/en-us/power-platform/" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/TebogoGoqo/blob/main/powerplatform.png" alt="power platform" width="60" height="60" hspace="20"/> </a> 
+    <a href="https://learn.microsoft.com/en-us/power-platform/" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/Tebogo-Erick-Goqo/blob/main/powerplatform.png" alt="power platform" width="60" height="60" hspace="20"/> </a> 
   </kbd>
 </p>
 <br>
