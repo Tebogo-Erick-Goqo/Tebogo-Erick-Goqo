@@ -3,7 +3,7 @@
 <br>
 
 <kbd>
-  <img src="https://github.com/Tebogo-Erick-Goqo/TebogoGoqo/blob/main/image_processing20211030-4633-19uq0zy.gif" height="600" width="800" />
+  <img src="https://github.com/Tebogo-Erick-Goqo/Tebogo-Erick-Goqo/blob/main/image_processing20211030-4633-19uq0zy.gif" height="600" width="800" />
 </kbd>
 
 <br>
@@ -36,7 +36,7 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" hspace="20"/> </a> 
   </kbd>
   <kbd>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/TebogoGoqo/blob/main/javascript.webp" alt="javascript" width="60" height="60" hspace="20"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/Tebogo-Erick-Goqo/blob/main/javascript.webp" alt="javascript" width="60" height="60" hspace="20"/> </a> 
   </kbd>
   <kbd>
     <a href="https://learn.microsoft.com/en-us/power-platform/" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/TebogoGoqo/blob/main/powerplatform.png" alt="power platform" width="60" height="60" hspace="20"/> </a> 
