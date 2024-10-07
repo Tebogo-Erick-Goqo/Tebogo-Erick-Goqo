@@ -24,10 +24,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <kbd>
-    <a href="https://www.linkedin.com/in/tebogo-goqo-062a6617b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tebogo-Erick-Goqo" height="60" width="20" hspace="20"/></a>
+    <a href="https://www.linkedin.com/in/tebogo-goqo-062a6617b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tebogo-Erick-Goqo" height="60" width="40" hspace="20"/></a>
   </kbd>
   <kbd>
-    <a href="https://www.codewars.com/users/Tebogo-Erick-Goqo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Tebogo-Erick-Goqo" height="60" width="20" hspace="20"/></a>
+    <a href="https://www.codewars.com/users/Tebogo-Erick-Goqo" target="_blank" rel="noreferrer"> <img src="https://github.com/Tebogo-Erick-Goqo/Tebogo-Erick-Goqo/blob/main/icons8-codewars-48.png" alt="power platform" width="60" height="60" hspace="20"/> </a> 
   </kbd>
   
 </p>
