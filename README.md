@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tebogoerickgoqo@gmail.com**
 
-- ⚡ Fun fact **There are even more possible variations of chess games than there are atoms in the observable universe.**
+- ⚡ Fun fact **A basketball can bounce over 100,000 times before it loses its bounce and needs to be replaced!**
 <br>
 
 <kbd>
