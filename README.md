@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tebogo Goqo</h1>
-<h3 align="center">A passionate Software Developer who does designing and creating software programs 💯, integrating systems and software, training end-users, analyzing algorithms 📈, modifying source-code 💻, writing system instructions, debugging ❌✔️, maintaining operating systems 🔧 🔩 🔨, and also play chess 😎.</h3>
+<h3 align="center">A passionate Software Developer who does designing and creating software programs 💯, integrating systems and software, training end-users, analyzing algorithms 📈, modifying source-code 💻, writing system instructions, debugging ❌✔️, maintaining operating systems 🔧 🔩 🔨, and also play basketball 😎.</h3>
 <br>
 
 <kbd>
