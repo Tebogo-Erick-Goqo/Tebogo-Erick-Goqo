@@ -8,7 +8,7 @@
 
 <br>
 
-- 👨‍💻 This is where you find my personal website at [https://tebogo-goqo.netlify.app/](https://tebogo-goqo.netlify.app/)
+- 👨‍💻 This is where you find my personal website at [(https://tebogo-erick-goqo.github.io/Tebogo-Goqo---Portfolio/)/](https://tebogo-erick-goqo.github.io/Tebogo-Goqo---Portfolio/)
 
 - 💬 Ask me about **Front-end, Back-end, Power Platform.**
 
